@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "152508756091",
+    "firebase_url": "https://jaiswalgrp-ba2b2.firebaseio.com",
+    "project_id": "jaiswalgrp-ba2b2",
+    "storage_bucket": "jaiswalgrp-ba2b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152508756091:android:2ee0eafe0b594a87eef2de",
+        "android_client_info": {
+          "package_name": "com.example.jaiswalgrp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152508756091-9ca5bo4km33go89bprujkegnedtk1ape.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jaiswalgrp",
+            "certificate_hash": "d9ffcf134936b72467f19dfc8f696269c39d1fdf"
+          }
+        },
+        {
+          "client_id": "152508756091-bjavcaaerfin1m5rfoii9utf98if89da.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ2Uq43FnyfV0yibSyXeu-bBx4qt01tSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152508756091-bjavcaaerfin1m5rfoii9utf98if89da.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
